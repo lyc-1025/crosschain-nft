@@ -20,3 +20,8 @@ https://docs.chain.link/ccip/tutorials/send-arbitrary-data
 安装CCIP :npm install -D @chainlink/contracts-ccip
 ```
 ![alt text](ccip-示意图.png)
+
+```shell
+安装env-enc:
+npm install --save-dev @chainlink/env-enc
+```
