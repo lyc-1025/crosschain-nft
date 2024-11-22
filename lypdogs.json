@@ -1,0 +1,16 @@
+{
+    "description": "Shiba Inu stands on the ground",
+    "external_url": "https://openseacreatures.io/3",
+    "image": "https://repulsive-brown-cod.myfilebase.com/ipfs/QmeCWLKuaCDSum1vMgerSJ3F4P8geqZ4ggTR91FHnCPnPQ",
+    "name": "Shiba inu",
+    "attributes": [
+        {
+            "trait_type": "Breed",
+            "value": "Shiaba Inu"
+        },
+        {
+            "trait_type": "temperature",
+            "value": "average"
+        }
+    ]
+}
