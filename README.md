@@ -3,6 +3,18 @@
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
 Try running some of the following tasks:
+```shell
+工具安装 
+https://www.bilibili.com/video/BV1RFsfe5Ek5?spm_id_from=333.788.videopod.episodes&vd_source=57542c9de3d2d63bcaa34d762a4872ae&p=4
+0:14:35 - 
+homebrew 安装 nvm
+nvm 安装各个版本nodejs
+
+通过brew安装工具
+brew -v 
+brew update
+brew install nvm
+```
 
 ```shell
 npx hardhat help
